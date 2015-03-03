@@ -13,5 +13,5 @@ https://github.com/pydata/pydata-book
 
 ## 第２章
 
-ch02.py
+~~ch02.py~~
 
