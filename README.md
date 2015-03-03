@@ -11,8 +11,6 @@ https://github.com/pydata/pydata-book
 
 ↑"pydata-book"以下にgit cloneしてきた。
 
-ipythonで作ったほうが良いかも。
-
 ## 第２章
 
 ch02.py
